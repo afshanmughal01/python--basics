@@ -60,7 +60,7 @@ for row in table[1:]:
         lang.insert(0 ,"#c")
         lang.remove("java")
         print(lang)
-        numb=(10,20,30)
+        numb=(10,250,30)
         x,y,z=numb
         print("x=",x)
         print("y=",y)
